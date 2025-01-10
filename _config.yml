@@ -7,7 +7,8 @@ headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" , e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://nietzsche025.github.io/mrliao.github.io/
+
 copyright: 2025年廖先生作品集展览
 # Build settings
 markdown: kramdown
